@@ -1,0 +1,37 @@
+html, body{
+    height: 100%;
+    margin: 0px;
+}
+
+
+.editor{
+    background-color:lavender;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.textarea{
+    background-color: transparent;
+    width: 100%;
+    height: 700px;
+    border: none;
+    resize: none;
+    overflow: auto;
+    font-size: 1.4rem;
+    color: purple;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textarea:focus{
+    outline: none;
+}
+
+.preview{
+    background-color: plum;
+    color:lavender;
+    width: 50%;
+    height: 700px;
+    float: right;
+}
