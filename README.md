@@ -7,8 +7,6 @@
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 
-index.html
-
 <a name="features"></a>
 ## Features
 Markdown이 사용된 텍스트를 서식을 적용하여 출력하는 작은 서비스
